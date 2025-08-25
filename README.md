@@ -29,12 +29,7 @@
 <div align="center" style="padding: 30px"> 
 <a href="https://www.instagram.com/jhoncy_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/jo%C3%A3o-carlos-mexias-656738234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+</div>
   
   
-<!--  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Jhoncy6}/count.svg" /></p> 
-<br>
-</div>-->
-  
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=292e31&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=292e31&height=120&section=footer"/>
