@@ -17,9 +17,11 @@
   <img style="margin-left: 10px;" align="center" alt="bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   
   <img style="margin-left: 10px;" align="center" alt="html5" height="120" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  
 
-  
+   <img style="margin-left: 10px;" align="center" alt="html5" height="120" width="43" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
+
+   <img style="margin-left: 10px;" align="center" alt="html5" height="120" width="43" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+
   
 </div>
 
