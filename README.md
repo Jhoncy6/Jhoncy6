@@ -10,8 +10,6 @@
 
 <div style="display: inline_block" align="center"><br>
   
-   <img style="margin-left: 10px;" align="center" alt="php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="50" width="50"/>
-    
   <img style="margin-left: 10px;" align="center" alt="nuxt" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
  
   <img style="margin-left: 10px;" align="center" alt="bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
